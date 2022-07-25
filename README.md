@@ -1,24 +1,6 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is a very simple blog app built using Ruby on Rails. It follows the tutorial at [Ruby on Rails Guides: Getting Started](https://guides.rubyonrails.org/getting_started.html) sequentially section by section.
 
-Things you may want to cover:
+The project demonstrates common commands and basic functionality for the Rails framework, including routing, the model-view-controller (MVC) system, and basic creation and manipulation of controllers and views.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project is currently in progress.
