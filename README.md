@@ -3,4 +3,4 @@ This project is a very simple blog app built using Ruby on Rails. It follows the
 
 The project demonstrates common commands and basic functionality for the Rails framework, including routing, the model-view-controller (MVC) design pattern, and basic creation and manipulation of controllers and views.
 
-This project is currently in progress.
+Run this project [here](https://quiet-ocean-09469.herokuapp.com/).
